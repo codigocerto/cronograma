@@ -2,12 +2,12 @@
 
 # Mês de Maio: Lançamento e Engajamento Inicial
 
-Semana 1 (22 a 26 de Junho): 
+Semana 3 (22 a 26 de Maio): 
 - Lançamento oficial da comunidade Código Certo Coders.
 - Divulgação nas redes e convite para membros.
 - Inscrições para desenvolvimento de projetos.
 
-Semana 2 (27 a 31 de Junho):
+Semana 4 (27 a 31 de Maio):
 - Fechamento das inscrições para desenvolvimento de projetos
 - Sessões de boas-vindas e orientação para novos membros.
 - Início das discussões sobre temas relevantes para a comunidade.
