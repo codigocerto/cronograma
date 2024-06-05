@@ -18,9 +18,9 @@ Semana 4 (27 a 31 de Maio):
 Semana 1 (1 a 7 de Junho):
 - Início dos projetos práticos e colaborativos.
 - Apresentação dos mentores e líderes de equipe.
-- Sessão de planejamento de projetos para definir objetivos e cronogramas.
+- Sessão de planejamento de projetos para definir objetivos e atribuições.
 
 Semana 2 (8 a 14 de Junho):
-- Inscrições para desenvolvimento de projetos em andamento.
-- Primeira rodada de feedback e avaliação de progresso.
+- Abertura das inscrições para a formação de novas equipes
+- Primeira rodada de feedback e avaliação de progresso nos projetos em andamento.
 
