@@ -43,11 +43,12 @@
   - Encerramento das inscrições para desenvolvimento de projetos.
 - **Triagem de Participação**
   - Primeira triagem de participação dos membros para garantir o envolvimento ativo.
-  - Sessões de boas-vindas e orientação para novos membros.
 - **Feedback Continuado**
   - Segunda rodada de feedback nos projetos.
 
 ### 🔹 Semana 4 (23 a 30 de Junho)
+- **Triagem de Participação**
+  - Sessões de boas-vindas e orientação para novos membros que finalizaram a triagem.
 - **Avaliação e Feedback**
   - Avaliação da participação dos membros.
   - Feedback sobre o processo de triagem.
@@ -72,13 +73,13 @@
 
 ---
 
-**Construindo o amanhã, hoje.**
-
 🔗 **Mantenha-se Conectado:**
 - [Website](http://www.codigocertocoders.com.br/)
 - [LinkedIn](https://www.linkedin.com/company/codigocerto/)
 
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com
+
+**Construindo o amanhã, hoje.**
 
 
