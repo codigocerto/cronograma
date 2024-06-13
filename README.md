@@ -62,9 +62,8 @@
 
 ### 🔹 Semana 1 (1 a 7 de Julho)
 - **Mentorias Finais**
-  - Sessões finais de mentorias para cada equipe.
+  - Sessões de mentorias para cada equipe.
 - **Preparação para Apresentações**
-  - Preparação e ensaio das apresentações finais dos projetos.
   - Revisão geral dos projetos para garantir qualidade e coesão.
 - **Inclusão Final**
   - Finalização da inclusão de novos membros nas equipes, se necessário.
@@ -73,7 +72,7 @@
 
 ---
 
-Esperamos que todos aproveitem ao máximo essa jornada colaborativa e alcancem grandes realizações. Vamos juntos construir um futuro brilhante com o **Código Certo Coders**!
+**Construindo o amanhã, hoje.**
 
 🔗 **Mantenha-se Conectado:**
 - [Website](http://www.codigocertocoders.com.br/)
