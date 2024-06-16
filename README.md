@@ -43,6 +43,14 @@
   - Encerramento das inscrições para desenvolvimento de projetos.
 - **Triagem de Participação**
   - Primeira triagem de participação dos membros para garantir o envolvimento ativo.
+  - [Triagem de FrontEnd](https://github.com/codigocerto/TrilhaFrontEndJR-JUN15)
+  - [Triagem de BackEnd](https://github.com/codigocerto/TrilhaBackEndJR-JUN15)
+  - [Triagem de FullStack](https://github.com/codigocerto/TrilhaFullStackJR-JUN15)
+  - [Triagem de Quality Assurance](https://github.com/codigocerto/TrilhaQaJR-JUN15)
+  - [Triagem de Ciência De Dados](https://github.com/codigocerto/TrilhaDadosJR-JUN15)
+  - [Triagem de UX/UI Designer](https://github.com/codigocerto/TrilhaDesigner-JUN15)
+  - [Triagem de DevOps](https://github.com/codigocerto/TrilhaDevOpsJR-JUN15)
+  - **Data máxima para entrega: 29/06**
 - **Feedback Continuado**
   - Segunda rodada de feedback nos projetos.
 
