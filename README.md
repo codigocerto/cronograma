@@ -1,6 +1,6 @@
 ![Código Certo Coders](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
-# Código Certo: Cronograma de Lançamento e Engajamento
+# **Código Certo Coders**: Cronograma 
 
 ## 📅 Maio: Lançamento e Engajamento Inicial
 
@@ -82,6 +82,7 @@
 ---
 
 🔗 **Mantenha-se Conectado:**
+- [Discord](https://discord.gg/wzA9FGZHNv)
 - [Website](http://www.codigocertocoders.com.br/)
 - [LinkedIn](https://www.linkedin.com/company/codigocerto/)
 
