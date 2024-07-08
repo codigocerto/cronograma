@@ -72,15 +72,33 @@
 ### 🔹 Semana 1 (1 a 7 de Julho)
 - **Triagem de Participação**
   - Sessões de boas-vindas e orientação para novos membros que finalizaram a triagem.
-  - Feedback sobre o processo de triagem.
-- **Mentorias Finais**
-  - Sessões de mentorias para cada equipe.
-- **Preparação para Apresentações**
-  - Revisão geral dos projetos para garantir qualidade e coesão.
 - **Inclusão Final**
   - Finalização da inclusão de novos membros nas equipes, se necessário.
 - **Motivação**
   - Manter o entusiasmo: estamos quase lá! 🚀
+ 
+### 🔹 Semana 2 (8 a 14 de Julho)
+- **Triagem de Participação**
+  - Sessões de boas-vindas e orientação para novos membros que finalizaram a triagem.
+- **Criação da Equipe de Marketing**
+  - Formação de uma equipe de marketing dedicada a promover a comunidade Código Certo Coders.
+  - Definição de estratégias para aumentar a visibilidade e o alcance da comunidade.
+- **Implementação de Dinâmicas Semanais e Mensais**
+  - Estabelecimento de atividades e desafios semanais e mensais para incentivar a participação contínua.
+  - Monitoramento e avaliação das dinâmicas para ajustar e melhorar conforme necessário.
+- **Revisões Intermediárias**
+  - Revisão intermediária dos projetos para garantir que estão no caminho certo.
+- **Motivação**
+  - Manter o entusiasmo: estamos quase lá! 🚀
+ 
+### 🔹 Semana 3 (15 a 21 de Julho)
+- **Triagem de Participação**
+  - Sessões de boas-vindas e orientação para novos membros que finalizaram a triagem.
+- **Preparação para Apresentações**
+  - Revisão intermediária dos projetos para garantir que estão no caminho certo.
+- **Planejamento para Agosto**
+  - Planejamento das atividades e objetivos para o próximo mês.
+  - Definição de novos projetos e metas de desenvolvimento.
 
 ---
 
